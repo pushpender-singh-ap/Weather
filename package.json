@@ -10,8 +10,14 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/geolocation": "^2.0.2",
+    "apisauce": "^2.1.1",
+    "lottie-react-native": "^4.0.2",
+    "mobx": "^6.3.2",
+    "mobx-react": "^7.2.0",
     "react": "17.0.1",
-    "react-native": "0.64.2"
+    "react-native": "0.64.2",
+    "react-native-responsive-screen": "^1.4.2"
   },
   "devDependencies": {
     "@babel/core": "7.14.3",
